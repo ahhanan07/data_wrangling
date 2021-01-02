@@ -1,7 +1,7 @@
 # Parsing Raw Text Files 
 
 ## Description
-`parsing-data.ipynb`:
+`parsing_raw_data.ipynb`:
 
 This project focus on the  extraction data from semi-structured text files using only `re` and `pandas` libraries. A lot of interesting functions were created by us in order to accomplish the tasks.
 
